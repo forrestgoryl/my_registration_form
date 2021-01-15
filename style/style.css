@@ -1,0 +1,9 @@
+.center {
+    text-align:center;
+}
+.boxformat {
+    width: 250px;
+    padding:20px;
+    border:2px solid whitesmoke;
+}
+* {box-sizing:border-box}
